@@ -1,8 +1,7 @@
-<html>
-<title>Hello World</title>
-
-<body><h2>This is PHP-Apache!</h2>
-
-</body>
-
-</html>
+<?php
+include 'connection.php';
+ 
+echo "Hello!"
+echo "You have successfully connected to mysql";
+mysqli_close($conn);
+?>
