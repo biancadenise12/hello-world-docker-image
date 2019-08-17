@@ -1,4 +1,4 @@
-FROM php:apache
+FROM php5.0:apache
 
 MAINTAINER Bianca Del Puerto <bdelpuerto@dxc.com>
 
