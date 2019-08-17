@@ -1,5 +1,5 @@
 <?php
-$servername = "642fc9ec835b";
+$servername = "53621d85d089";
 $username = "user";
 $password = "pass";
 $db = "dxc";
